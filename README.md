@@ -1,4 +1,4 @@
-<h1 align="center">Weather App API</h1>
+<h1 align="center">Weather App API Project</h1>
 
 <p align="center">
   🌦️ <strong>Flutter-based Weather App</strong> with Live API Integration for Real-Time Weather Updates
@@ -8,7 +8,7 @@
 
 ### 📋 Project Description
 
-The **Weather App API** is a **Flutter-based mobile application** that provides users with **real-time weather updates** by fetching data from a powerful weather API. Whether you're planning your day or a weekend getaway, this app ensures you're always prepared for the weather.
+The **>Weather App API Project** is a **Flutter-based mobile application** that provides users with **real-time weather updates** by fetching data from a powerful weather API. Whether you're planning your day or a weekend getaway, this app ensures you're always prepared for the weather.
 
 With features like **live temperature display**, **weather conditions**, and **location-based updates**, the app offers a sleek and intuitive experience for tracking weather conditions across any city in the world.
 
@@ -48,12 +48,12 @@ To get started with this project, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/IAftabRehman/weather_app_api.git
+    git clone https://github.com/IAftabRehman/weather_app_api_project.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd weather_app_api
+    cd weather_app_api_project
     ```
 
 3. Install dependencies:
